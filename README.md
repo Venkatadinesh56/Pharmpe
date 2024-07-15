@@ -48,3 +48,4 @@ PharmPE is a comprehensive mobile application designed to revolutionize the phar
 
 ## payment
 ![payment](https://i.postimg.cc/9MJ4yvfn/Screenshot-2024-07-15-141629.png)
+![payment](https://i.postimg.cc/s2wTM7xz/Screenshot-2024-07-15-151355.png)

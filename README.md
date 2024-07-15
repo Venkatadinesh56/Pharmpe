@@ -66,8 +66,8 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
+*   Flutter
 *   dart language
-*   chat gpt
 *   Git
 *   Github
 

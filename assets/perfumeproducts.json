@@ -1,0 +1,122 @@
+[
+    {
+        "Id": 1,
+        "name": "Wild Stone Edge Eau De Parfum for Men",
+        "MRP": 300,
+        "Quantity": "1",
+        "description": "Woody and aromatic fragrance, long-lasting and noticeable scent.",
+        "imgurl1": "https://m.media-amazon.com/images/I/61Mc9FBXiCL._SX425_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/61YodNCcdEL._SX425_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/61TYei9ZnlL._SX425_.jpg",
+        "category": "Perfume",
+        "ingredients": ["Lemon", "Artemisia", "Marine Labdanum", "Ginger", "Patchouli", "Cedarwood", "Amber"]
+    },
+    {
+        "Id": 2,
+        "name": "Villain Desire Eau De Parfum",
+        "MRP": 499,
+        "Quantity": "1",
+        "description": "Pheromone-infused with a unique and strong scent.",
+        "imgurl1": "https://m.media-amazon.com/images/I/51QYzZEmdML._SX425_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/51TRl1tFKeL._SX425_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/61ju8ZjkP1L._SX425_.jpg",
+        "category": "Perfume",
+        "ingredients": ["Caramel", "Coconut", "Jasmine", "Floral", "Vanilla", "Woody", "Amber", "Patchouli"]
+    },
+    {
+        "Id": 3,
+        "name": "Yardley London Gentleman Urbane Perfume",
+        "MRP": 499,
+        "Quantity": "1",
+        "description": "Classic and sophisticated fragrance for a timeless and elegant scent.",
+        "imgurl1": "https://m.media-amazon.com/images/I/61wWmHvDMfL._SX425_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/61OKwH2anPL._SX425_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/61xRj4zzDaL._SX425_.jpg",
+        "category": "Perfume",
+        "ingredients": ["Citrus", "Woody"]
+    },
+    {
+        "Id": 4,
+        "name": "The Man Company Specially Curated Perfume",
+        "MRP": 599,
+        "Quantity": "1",
+        "description": "Unique and captivating fragrance Ideal for special occasions.",
+        "imgurl1": "https://m.media-amazon.com/images/I/61n0OKeCF+L._SX522_PIbundle-4,TopRight,0,0_AA522SH20_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/61JJ8Oh3gHL._SX522_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/61C4P0IzmdL._SX522_.jpg",
+        "category": "Perfume",
+        "ingredients": ["Exotic", "Spicy"]
+    },
+    {
+        "Id": 5,
+        "name": "Set Wet Studio X Edge Perfume Spray",
+        "MRP": 349,
+        "Quantity": "1",
+        "description": "Affordable daily use fragrance with a fresh and powerful scent.",
+        "imgurl1": "https://m.media-amazon.com/images/I/51reeo47ptL._SX300_SY300_QL70_FMwebp_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/71RV7CbC4mL._SX425_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/71A8NQwejIL._SL1500_.jpg",
+        "category": "Perfume",
+        "ingredients": ["Woody", "Musky"]
+    },
+    {
+        "Id": 6,
+        "name": "Denver Hamilton Deodorant",
+        "MRP": 249,
+        "Quantity": "1",
+        "description": "Long-lasting fragrance Ideal for daily use.",
+        "imgurl1": "https://denverformen.com/cdn/shop/files/hamilton165ml_1500x.jpg?v=1698478393",
+        "imgurl2": "https://denverformen.com/cdn/shop/files/Artboard5_1x1copy-2_a01d03a5-8bec-4775-b01f-92f0e4f136d1_1500x.jpg?v=1698478393",
+        "imgurl3": "https://denverformen.com/cdn/shop/files/165ml_4130fa8e-6d4a-4c0d-8844-1ccdcba14e5d_1500x.jpg?v=1698478393",
+        "category": "Perfume",
+        "ingredients": ["Musky", "Woody"]
+    },
+    {
+        "Id": 7,
+        "name": "Fogg Xtremo Scent",
+        "MRP": 299,
+        "Quantity": "1",
+        "description": "Strong and long-lasting fragrance suitable for everyday wear.",
+        "imgurl1": "https://m.media-amazon.com/images/I/41P1ATEFvFL._SX300_SY300_QL70_FMwebp_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/71RZC7qqy-L._SX425_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/81PYcWEKnOL._SX425_.jpg",
+        "category": "Perfume",
+        "ingredients": ["Woody", "Spicy"]
+    },
+    {
+        "Id": 8,
+        "name": "Beardo Godfather Perfume",
+        "MRP": 499,
+        "Quantity": "1",
+        "description": "Bold and long-lasting fragrance for a strong impression.",
+        "imgurl1": "https://beardo.in/cdn/shop/files/GodfatherPerfume100ml2160x2160.jpg?v=1693556902&wIdth=1946",
+        "imgurl2": "https://beardo.in/cdn/shop/files/MicrosoftTeams-image_215.jpg?v=1707473453&wIdth=1946",
+        "imgurl3": "https://beardo.in/cdn/shop/files/4_87d3a46d-3594-4ca9-949d-82ca6ae38208.jpg?v=1707473453&wIdth=1946",
+        "category": "Perfume",
+        "ingredients": ["Woody", "Spicy"]
+    },
+    {
+        "Id": 9,
+        "name": "Engage M1 Perfume Spray for Men",
+        "MRP": 299,
+        "Quantity": "1",
+        "description": "Refreshing and long-lasting fragrance for everyday use.",
+        "imgurl1": "https://m.media-amazon.com/images/I/41cYV3eiQLL._SX300_SY300_QL70_FMwebp_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/61+y7Jl784L._SX425_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/81moyqqhLqL._SX425_.jpg",
+        "category": "Perfume",
+        "ingredients": ["Citrus", "Floral", "Woody"]
+    },
+    {
+        "Id": 10,
+        "name": "Park Avenue Euphoria Perfume",
+        "MRP": 350,
+        "Quantity": "1",
+        "description": "Ideal for everyday wear with a refreshing and long-lasting scent.",
+        "imgurl1": "https://m.media-amazon.com/images/I/61zBq6pkFFL._SX522_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/61LVmLXecQL._SX522_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/71d5M+WOVTL._SX522_.jpg",
+        "category": "Perfume",
+        "ingredients": ["Fresh", "Invigorating"]
+    }
+]

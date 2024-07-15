@@ -1,0 +1,125 @@
+[
+    {
+        "id": 1,
+        "name": "Dove",
+        "MRP": 50,
+        "Quantity": "1",
+        "description": "Dove soap is known for its moisturizing properties, ideal for dry skin. Enriched with moisturizing cream and gentle on the skin.",
+        "imgurl1": "https://m.media-amazon.com/images/I/51D3ux9kYgL._SX569_PIbundle-8,TopRight,0,0_AA569SH20_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/51iBvIQ15uL._SX569_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/71e1t3Me8KL._SX569_.jpg",
+        "category": "Moisturizing",
+        "ingredients": ["Moisturizing Cream", "Glycerin", "Stearic Acid", "Sodium Palmitate"]
+    },
+    {
+        "id": 2,
+        "name": "Lifebuoy",
+        "MRP": 40,
+        "Quantity": "1",
+        "description": "Famous for its antibacterial properties, Lifebuoy offers strong germ protection, making it a popular choice for hygiene-conscious consumers.",
+        "imgurl1":            "https://assets.unileversolutions.com/v1/82311091.jpg?im=Resize,width=320,height=320",
+        "imgurl2": "https://m.media-amazon.com/images/I/716NWy7qCFL._SX569_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/71TrL6xMTgL._SX569_.jpg",
+        "category": "Antibacterial",
+        "ingredients": ["Sodium Palmate", "Sodium Palm Kernelate", "Glycerin", "Water"]
+    },
+    {
+       "id": 3,
+        "name": "Santoor",
+        "MRP": 45,
+        "Quantity": "1",
+        "description": "Santoor combines the goodness of sandalwood and turmeric, known for their skin-soothing and antiseptic properties.",
+        "imgurl1":  "https://m.media-amazon.com/images/I/714IZC2WA4L._SX569_.jpg",
+        "imgurl2":  "https://m.media-amazon.com/images/I/71BSCb7E2BL._SX569_.jpg",
+        "imgurl3":   "https://m.media-amazon.com/images/I/61gg-7fcy2L._SX569_.jpg",
+        "category": "Herbal",
+        "ingredients": ["Sandalwood", "Turmeric", "Glycerin", "Sodium Palmate"]
+    },
+    {
+        "id": 4,
+        "name": "Lux",
+        "MRP": 35,
+        "Quantity": "1",
+        "description": "Renowned for its luxurious feel and pleasant fragrance, Lux is often associated with beauty and elegance.",
+        "imgurl1":"https://m.media-amazon.com/images/I/511UU60cgaL._SX569_.jpg",
+        "imgurl2":"https://m.media-amazon.com/images/I/51ClUvXMuoL._SX569_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/61ZoKhOiM+L._SX569_.jpg",
+        "category": "Beauty",
+        "ingredients": ["Glycerin", "Fragrance", "Sodium Palmate", "Water"]
+    },
+    {
+        "id": 5,
+        "name": "Pears",
+        "MRP": 60,
+        "Quantity": "1",
+        "description": "This transparent glycerin-based soap is gentle on the skin, making it suitable for sensitive skin types.",
+        "imgurl1":             "https://m.media-amazon.com/images/I/61GmuQRLPxL._SX569_.jpg",
+        "imgurl2": "https://m.media-amazon.com/images/I/61LSb-Rz24L._SX569_.jpg",
+        "imgurl3": "https://m.media-amazon.com/images/I/61yMR5NSVvL._SX569_.jpg", 
+        "category": "Gentle",
+        "ingredients": ["Glycerin", "Water", "Sorbitol", "Sodium Laurate"]
+        
+    },
+    {
+        "id": 6,
+        "name": "Nyassa",
+        "MRP": 100,
+        "Quantity": "1",
+        "description": "Nyassa is known for its handmade soaps with natural ingredients, offering various scents and formulations for different skin needs.",
+        "imgurl1": "https://www.nyassabathandbody.com/cdn/shop/files/Untitled-43_864x864.png?v=1717845982",
+        "imgurl2":  "https://www.nyassabathandbody.com/cdn/shop/files/IMG_9565_864x864.jpg?v=1717845982",
+        "imgurl3":   "https://www.nyassabathandbody.com/cdn/shop/products/8906056676591_1_864x864.jpg?v=1717845982",
+        "category": "Natural",
+        "ingredients": ["Natural Oils", "Glycerin", "Essential Oils", "Shea Butter"]
+    },
+    {
+        "id": 7,
+        "name": "Nykaa",
+        "MRP": 80,
+        "Quantity": "1",
+        "description": "Nykaa's Neem & Tulsi Purifying Bathing Soap is popular for its organic ingredients and skin-purifying properties.",
+        "imgurl1": "https://images-static.nykaa.com/media/catalog/product/t/e/tea-tree-_-aloe-vera_1.jpg",
+        "imgurl2": "https://images-static.nykaa.com/media/catalog/product/t/e/tea-tree-_-aloe-vera_6.jpg",
+        "imgurl3":  "https://images-static.nykaa.com/media/consc/cruelty.jpg",
+        "category": "Organic",
+        "ingredients": ["Neem", "Tulsi", "Glycerin", "Sodium Palmate"]
+
+    },
+    {
+        "id": 8,
+        "name": "Cinthol",
+        "MRP": 30,
+        "Quantity": "1",
+        "description": "Cinthol offers freshness and protection with various variants like lime and original.",
+        "imgurl1": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdsQGqP8GZw05KxiV2Dk-FaHkNCj6LfTENCeG5nRJpscYQKrsUDsvE1fj7IcUjL9BmnU8XMCHkJ71quNnNBD6f4XQQHFntRdnx2sPdy2yn2TTJBME7pmNH",
+        "imgurl2": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWWpT0I-pyJ3WFy1cAkk0LR_XM9uhcWEqm16hOxyQTL1lciI0N56GXvF1IhgL0nbv26HLuF5M3ly0u3ipSPNBQoJvVBCaGlmi7BFknqior07rI3LL3GhpueQ",
+        "imgurl3":   
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbEJovhW8YPCbX2Hh6H7Hapfk_gea0XixVoGJ3UXi5SliaKZok3XDXg1E60nLkUmC-PyD68v75JAgiXL_YKs-lFn5U9UABlsW3yHEx9Ns",
+        "category": "Freshness",
+        "ingredients": ["Glycerin", "Sodium Palmate", "Fragrance", "Water"]
+    },
+    {
+       "id": 9,
+        "name": "Hamam",
+        "MRP": 25,
+        "Quantity": "1",
+        "description": "Hamam focuses on natural ingredients and is known for its ayurvedic and herbal formulations that are gentle on the skin.",
+        "imgurl1":  "https://m.media-amazon.com/images/I/51xOZf77neL.jpg",
+        "imgurl2": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS0sVaiUV_o4tmhLYBoMENEAjsoPRbvFCYMZfVADwCtYSR-fMLE8lrXCPwA8jRu4j8ktoOu7okO2IGKOZTCzAGvDwen4wEXPoBQ74HSNcBQCbxriwyl2MCIMA",
+        "imgurl3":   "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGyvquVxWh2_hvukf7qQEpoOopjhyNZOAfpzNQsHQsd-RoTaIqO9fuwm-w2WJ7znwRWvccUNPeBRW69rtAIQ-VrGY7yhk7IUrRPFiCSw_TXv3CEAWx9lWT4Q",
+        "category": "Herbal",
+        "ingredients": ["Neem", "Tulsi", "Aloe Vera", "Glycerin"]
+    },
+    {
+       "id": 10,
+        "name": "Mamaearth",
+        "MRP": 90,
+        "Quantity": "1",
+        "description": "Mamaearth is known for its natural and toxin-free soaps that provide excellent moisturization and skin nourishment.",
+        "imgurl1": "https://images.mamaearth.in/catalog/product/d/r/drop-template_2.jpg?format=auto&height=600",
+        "imgurl2": "https://images.mamaearth.in/catalog/product/2/_/2_68.jpg?format=auto&height=600",
+        "imgurl3": "https://images.mamaearth.in/catalog/product/3/_/3_61.jpg?format=auto&height=600",
+        "category": "Natural",
+        "ingredients": ["Shea Butter", "Coconut Oil", "Glycerin", "Essential Oils"]
+    }
+]

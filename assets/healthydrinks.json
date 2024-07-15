@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "name": "Horlicks",
+    "MRP": 250,
+    "Quantity": "500g",
+    "description": "Nutritional supplements, especially for children.",
+    "imgurl1": "https://rukminim2.flixcart.com/image/750/900/xif0q/milk-drink-mix/x/z/5/500-classic-malt-500g-plastic-bottle-1-horlicks-original-imaghfhpza9sjpvm.jpeg?q=20&crop=false",
+    "imgurl2": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQpEkLp7AF0knaZCPAPb3Z1rUVN-nf6NqSrHjuSd0vilBfGGvTIlTE9iVB_O1RuHh9iDdnYROgg4fXgR6Fw971uTI9iIjx_B_b3TFb5SOhqMKmr2xauQtVXkX8",
+    "imgurl3": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTx4_CPktBrpR5o_7SRoGltl7EG2cA84XZl5gvxpFS7X-V5fXiVP5lYExOljZO1TmHXZ71FGwDQcINHzEOmfUbecm1F3peW3IOG-94EmpetPlsPGtjjMx2J7Q",
+    "category": "Health drink",
+    "ingredients": [
+      "Malt extract",
+      "Milk solids",
+      "Cocoa",
+      "Minerals",
+      "Vitamins"
+    ] 
+  },
+  {
+    "id": 2,
+    "name": "Bournvita",
+    "MRP": 210,
+    "Quantity": "500g",
+    "description": "Malt-based health drink, rich in essential nutrients.",
+    "imgurl1": "https://rukminim2.flixcart.com/image/750/900/xif0q/milk-drink-mix/k/j/s/-original-imagnjzaja2sjbzg.jpeg?q=20&crop=false",
+    "imgurl2": "https://rukminim2.flixcart.com/image/750/900/xif0q/milk-drink-mix/s/2/o/-original-imags7qfggazqthw.jpeg?q=20&crop=false",
+    "imgurl3": "https://rukminim2.flixcart.com/image/750/900/xif0q/milk-drink-mix/r/p/g/-original-imagsem8xyw5gzhg.jpeg?q=20&crop=false",
+    "category": "Health drink",
+    "ingredients": [
+      "Malt extract",
+      "Cocoa",
+      "Milk solids",
+      "Vitamins",
+      "Minerals"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Complan",
+    "MRP": 280,
+    "Quantity": "500g",
+    "description": "Offers a range of nutritional drinks for overall growth and development.",
+    "imgurl1": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKb22elAf8-GovoAqg-k1XkalmUBw451fFK6hIRoHV9gMX2TL9vTHtP_pfWdzqu36OsPHElCgnvJ7fbZG4bPeiaybInIoQ-GDgTDRpzqoXoANAl5Q-SX6IMQ",
+    "imgurl2": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6DvoxKUs5wmAiX-dy5QPa1oi4u9Eju_S_YRaWtYliI9TUPXZiQQsEYYRv5nfb2iNmXnrmX_wSLjYGi2Aendz6Vsk58o7mTyF4hNrH4ifqQeucOyFCHiaygQ",
+    "imgurl3": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQkMonMPDprkSdFozicoD8mkejkoos48DGX1ue0bIhLK4RvF53eVdoZEQG0IkBBYrzUk-7XyjvG4wJLGRobrjxsgIQVHDQ_pfAe7eiHJOGVK9e2AqUL0fG4FQ",
+    "category": "Health drink",
+    "ingredients": [
+      "Milk solids",
+      "Malt extract",
+      "Vitamins",
+      "Minerals",
+      "Proteins"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Protinex",
+    "MRP": 320,
+    "Quantity": "400g",
+    "description": "Protein supplements for adults and elderly.",
+    "imgurl1": "https://m.media-amazon.com/images/I/81jl0Zbj0gL.SX522.jpg",
+    "imgurl2": "https://m.media-amazon.com/images/I/61VvRIh8adL.SX522.jpg",
+    "imgurl3": "https://m.media-amazon.com/images/I/71Z6-GIkPLL.SY879.jpg",
+    "category": "Health drink",
+    "ingredients": [
+      "Protein hydrolysate",
+      "Soy protein isolate",
+      "Minerals",
+      "Vitamins"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Boost",
+    "MRP": 200,
+    "Quantity": "500g",
+    "description": "Chocolate-flavored health drink known for energy-boosting properties.",
+    "imgurl1": "https://m.media-amazon.com/images/I/61TTycCvtRL.SX522.jpg",
+    "imgurl2": "https://m.media-amazon.com/images/I/71c28u7dajL.SX522.jpg",
+    "imgurl3": "https://m.media-amazon.com/images/I/61HU43n-8tL.SX522.jpg",
+    "category": "Health drink",
+    "ingredients": [
+      "Malt extract",
+      "Milk solids",
+      "Cocoa powder",
+      "Minerals",
+      "Vitamins"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ensure",
+    "MRP": 350,
+    "Quantity": "400g",
+    "description": "Nutritional supplement targeted at adults.",
+    "imgurl1": "https://m.media-amazon.com/images/I/81+70b0fMxL.SX522.jpg",
+    "imgurl2": "https://m.media-amazon.com/images/I/81UkRBhx1AL.SX522.jpg",
+    "imgurl3": "https://m.media-amazon.com/images/I/81T8M28DLUL.SX522.jpg",
+    "category": "Health drink",
+    "ingredients": [
+      "Milk protein concentrate",
+      "Soy protein isolate",
+      "Vitamins",
+      "Minerals"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Amul Kool",
+    "MRP": 30,
+    "Quantity": "200ml",
+    "description": "Flavored milk-based drink popular for taste and nutrition.",
+    "imgurl1": "https://www.bigbasket.com/media/uploads/p/l/40005022_5-amul-kool-kesar.jpg",
+    "imgurl2": "https://www.bigbasket.com/media/uploads/p/l/40005022-2_4-amul-kool-kesar.jpg",
+    "imgurl3": "https://www.bigbasket.com/media/uploads/p/l/40005022-3_4-amul-kool-kesar.jpg",
+    "category": "Health drink",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Flavors"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pediasure",
+    "MRP": 520,
+    "Quantity": "400g",
+    "description": "Nutritional drink specifically formulated for children's growth.",
+    "imgurl1": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRg7XZiTWC9fSPRbenCqaI19zImE6brZ45wiWozrAQsCJcQL-Vha7Tjm7WfqB7QPpt1RZjG1XbicyAI68dxPxnGyCTy7PBU8ksuoOgt-qQvpnZ6O7k7REsuYrE",
+    "imgurl2": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSqfdlvt6TnvsA6GPCzReyCRKU7bUtXFLYuZxxUPwXsCZZDbmX7DprzB9pKMsNczE-elrN3tW3L18H0F1AlaQEbye6uQXRhUWI61yj8ABs4uJOhEUf38jeF",
+    "imgurl3": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSLeg3AIeuvL0UTGsfrSC8r5t8edW06SzHCtvYPnB28OikWBnOKGlCE9vJ1oeBvJ0IwJ6Y6ZzqDBZp31tdSkiQK7_8zqaMOFYZnHJtJ8A1MP0syO7PfD63c4w",
+    "category": "Health drink",
+    "ingredients": [
+      "Milk solids",
+      "Maltodextrin",
+      "Sugar",
+      "Vitamins",
+      "Minerals"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Glucon-D",
+    "MRP": 95,
+    "Quantity": "200g",
+    "description": "Instant energy drink powder for quick replenishment of energy.",
+    "imgurl1": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThqumf35Nn5gl2bUrrCsMTcZt8_--My8u_C-CKpKs_1FJQfQ6ukdI4J_-czpGz2xojcZLVajczOlt_2sZVVhOG2Z2aqsU72F0Oal8E5yNHElemljQ4qHpsww",
+    "imgurl2": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRELV2hcyYbyzFe56_f17FMmTiLwIQI_t5_OG99tV5WEFOTaF-D-NLio-MxUzUzNfbxn06uVqhp6S2KnFbcOANepSgugwZUpDgU57a4Q0pJzW3F7_vr1EKwYw",
+    "imgurl3": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwC2K22t0OPNxbnXTcuY1keo2ThtT1wIkRuoE0PBLNmAfWbGiWKgUO8SP_oCkh5AEKUTmo7leX0CFkGyNBv99FgMXnNsVMEqvwHKAWNtzIQhrgsYGVbsxU0Q",
+    "category": "Health drink",
+    "ingredients": [
+      "Glucose",
+      "Vitamin D",
+      "Calcium"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dabur Glucose",
+    "MRP": 85,
+    "Quantity": "200g",
+    "description": "Glucose drink for instant energy, enriched with Vitamin D.",
+    "imgurl1": "https://m.media-amazon.com/images/I/71pO7oYZTqL._SX425_.jpg",
+    "imgurl2": "https://m.media-amazon.com/images/I/71Sso2WiTDL._SX425_.jpg",
+    "imgurl3": "https://m.media-amazon.com/images/I/71x-NnCxdiL._SX425_.jpg",
+    "category": "Health drink",
+    "ingredients": [
+      "Glucose",
+      "Vitamin D",
+      "Calcium"
+    ]
+  },
+  {
+    "Id":4,
+    "name": "Complan",
+    "imgurl1": "https://m.media-amazon.com/images/I/61nUvjOY0DL.jpg",
+    "imgurl2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZTbEv0ukyv3OWKyzjcMZJSv2xZxWoGruAXJkO2xTh2R-I_WtmADSstW5qGP8N2eJCok&usqp=CAU",
+    "manufacturers": "Zydus Wellness PVT LTD",
+    "stock": "In Stock",
+    "introduction": "Complan was launched by Glaxo in 1954. As part of Glaxo's Farley Health Products subsidiary, the Complan UK brand was sold to Boots in 1988. In India, Complan remained with Glaxo until 1994, when it was acquired by Heinz, who also acquired the UK brand in the same year.",
+    "benefits": "Complan helps support growth and support memory and concentration. This drink for kids contains essential nutrients like iodine, iron, zinc etc., that are known to support brain development and functioning. The pro-immunity nutrients like vitamin A, vitamin C etc., support immune function.",
+    "description": "Complan is a trusted, fortified dietary supplement formulated to provide high-quality nutrition. It includes a balanced mix of high-quality essential proteins, fats, and carbohydrates to provide energy.",
+    "how_to_use": "Add 60g (4 rounded tablespoons) of Complan to the small amount of milk or water and blend into a paste using a fork or whisk. This paste can be added to soups, stews, mashed potato and other foods, or for a drink, follow step 3. Pour in the rest of the milk or water, stir well and enjoy your delicious drink.",
+    "safety_advise": "- Complan is a dietary supplement recommended by healthcare professionals, specifically designed to provide balanced nourishment and many other benefits: 24 vitamins and minerals selected to promote health and vitality. Rich source of antioxidant vitamins A, C and E. Contains calcium for healthy, strong bones.",
+    "Package": "Packet",
+    "Quantity": "1000 gms",
+    "Product Form": "Powder",
+    "MRP": 484,
+    "bought": "1,374 people bought this recently",
+    "MANUFACTURER_ADDRESS": "Address: WJG6+4MJ, 2nd Main Rd, Tavarekere, Maruti Nagar, 1st Stage, BTM Layout, Bengaluru, Karnataka 560029",
+    "country_of_origin": "India",
+    "for_sale": "ADD TO CART",
+    "Q_A": ""
+  }
+]

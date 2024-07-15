@@ -1,0 +1,101 @@
+[
+  {
+    "Id": 1,
+    "name": "Thermometer",
+    "category": "Diagnostic Instruments",
+    "MRP": 50,
+    "Quantity": "100",
+    "imgurl1": "https://m.media-amazon.com/images/I/51Dbjx6lW5L.jpg",
+    "imgurl2": "https://th.bing.com/th/id/OIP.Hgyy0o6InW79yrTTUOlepAAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+    "Id": 2,
+    "name": "Sphygmomanometer",
+    "category": "Diagnostic Instruments",
+    "MRP": 100,
+    "Quantity": "50",
+    "imgurl1": "https://th.bing.com/th/id/R.dcbe47aa61832430dd4b7865023cf3dc?rik=ONN5teypoheofQ&riu=http%3a%2f%2fwww.pmsinstruments.co.uk%2fblog%2fwp-content%2fuploads%2f2015%2f12%2fUM-102.jpg&ehk=qoW43c5Te1fcNrHW7XSx65jkVMudUOkvLb3JQM%2bBsRY%3d&risl=&pid=ImgRaw&r=0",
+    "imgurl2": "https://www.alimed.com/_resources/cache/images/product/933261_1000x1000-pad.jpg"
+  },
+  {
+    "Id": 3,
+    "name": "Pulse Oximeter",
+    "category": "Diagnostic Instruments",
+    "MRP": 150,
+    "Quantity": "30",
+    "imgurl1": "https://5.imimg.com/data5/SELLER/Default/2020/10/WI/IQ/UC/46346323/pulse-oximeter.jpg",
+    "imgurl2": "https://th.bing.com/th/id/R.7f0b31ca02afe42dfe38a55a699c9415?rik=Nu%2bb0Fer9IdLmA&riu=http%3a%2f%2fwww.essexindustries.com%2fwp-content%2fuploads%2f2016%2f01%2fMD300C23-3.jpg&ehk=tvmXr6dDWKOttsQ70fGW2KPafKbxVH8y%2fznRonPrdTo%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "Id": 4,
+    "name": "Stethoscope",
+    "category": "Diagnostic Instruments",
+    "MRP": 100,
+    "Quantity": "80",
+    "imgurl1": "https://www.medwest.ca/media/3M-Littmann-Classic-III-Stethoscope-4.jpg",
+    "imgurl2": "https://th.bing.com/th/id/OIP.P9GMQ6IPx7MtVb_HbAEPtgHaCt?pid=ImgDet&w=474&h=173&rs=1"
+  },
+  {
+    "Id": 5,
+    "name": "Glucose Meter",
+    "category": "Diagnostic Instruments",
+    "MRP": 80,
+    "Quantity": "40",
+    "imgurl1": "https://cdn11.bigcommerce.com/s-kslxuc4w/images/stencil/1280w/products/1047/5929/lite_open__68268.1578872063.png?c=2",
+    "imgurl2": "https://i5.walmartimages.com/asr/a0bca4e2-59bf-4a0f-a0ff-405f80683d15_1.b1bc07071257ae344cd9f7a0b40d948d.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+  },
+  {
+    "Id": 6,
+    "name": "First Aid Kit",
+    "category": "Emergency Supplies",
+    "MRP": 50,
+    "Quantity": "10",
+    "imgurl1": "https://i5.walmartimages.com/asr/82b762a9-f25b-4612-bdef-bec964be189e_1.ebc1d451728e91aed163ac8f2e3d1b54.jpeg",
+    "imgurl2": "https://i5.walmartimages.com/asr/0bcb7e57-bc80-4df6-b68c-a27a8be6d0c7_1.02383e2bf27d07752a7bb263b83f22bd.jpeg"
+  },
+  {
+    "Id": 7,
+    "name": "Oxygen",
+    "category": "Respiratory Support",
+    "MRP": 200,
+    "Quantity": "50",
+    "imgurl1": "https://th.bing.com/th/id/R.1fa2865b12bb9704f81b5b91a3669c37?rik=Sb7iONnATOerzg&riu=http%3a%2f%2fmoyeahstore.com%2fwp-content%2fuploads%2f2019%2f07%2fMOYEAH-MINI-O2-oxygen-concentrator02.jpg&ehk=qGNtZDn3IsiBfo6MN4fiw5aZYXQ3gi2%2fXWz1%2f%2fc6KmA%3d&risl=&pid=ImgRaw&r=0",
+    "imgurl2": "https://th.bing.com/th/id/OIP.7yxtGa-_KgSjA_6a-eLXUwHaEo?rs=1&pid=ImgDetMain"
+  },
+  {
+    "Id": 8,
+    "name": "Disposable Gloves",
+    "category": "Protective Equipment",
+    "MRP": 10,
+    "Quantity": "200",
+    "imgurl1": "https://m.media-amazon.com/images/I/51OrEIzoiTL._AC_UF1000,1000_QL80_.jpg",
+    "imgurl2": "https://cdn-shop.adafruit.com/1200x900/4590-02.jpg"
+  },
+  {
+    "Id": 9,
+    "name": "Syringe",
+    "category": "Medical Instrument",
+    "MRP": 2,
+    "Quantity": "500",
+    "imgurl1": "https://th.bing.com/th/id/OIP.6rQglEVEPcGbYDuvBDhXNwHaHh?rs=1&pid=ImgDetMain",
+    "imgurl2": "https://www.neuromedicalsupplies.com/wp-content/uploads/2017/02/97000096__Syringe-10cc-Sterile-Luer-Lok-100-.jpg"
+  },
+  {
+    "Id": 10,
+    "name": "Bandage",
+    "category": "Medical Consumables",
+    "MRP": 5,
+    "Quantity": "300",
+    "imgurl1": "https://i5.walmartimages.com/asr/d2900f8d-9154-4ac1-8640-ba314bd55640_1.c4ec10f9909dfa35ea1d1ade97f5c7ec.jpeg",
+    "imgurl2": "https://images.wisegeek.com/sprained-wrist.jpg"
+  },
+  {
+    "Id": 11,
+    "name": "Masks",
+    "category": "Protective Equipment",
+    "MRP": 1,
+    "Quantity": "1000",
+    "imgurl1": "https://m.media-amazon.com/images/I/61hApWyohdS.UL1500.jpg",
+    "imgurl2": "https://i1.wp.com/lifeshield.ca/wp-content/uploads/2020/04/Screenshot-2020-04-17-00.20.07.png?fit=1136%2C1176&ssl=1"
+  }
+]

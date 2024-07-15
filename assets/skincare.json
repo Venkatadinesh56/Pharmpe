@@ -1,0 +1,423 @@
+[
+  {
+    "Id":1, 
+    "Label": "Moisturizer",
+    "Brand": "LA MER",
+    "name": "Crème de la Mer",
+    "MRP": "175",
+    "Rank": "4.1",
+    "Quantity":"1",
+    "Ingredients": " Algae (Seaweed) Extract",
+    "imgurl1":"https://th.bing.com/th/id/OIP.bxOw2W38bMAvBVHuk4Ry5wAAAA?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://m.media-amazon.com/images/I/514cgi2T0ZL._SY355_.jpg"
+    
+  },
+  {
+    "Id":2,
+    "Label": "Moisturizer",
+    "Brand": "CAUDALIE",
+    "name": "Premier Cru Rich Cream",
+    "MRP": "140",
+    "Rank": "4.5",
+    "Ingredients": " Water",
+    "Quantity":"1",
+    "imgurl1":"https://static.sweetcare.pt/img/prd/488/v-638233396388616892/caudalie-007478cd_01.webp",
+"imgurl2":"https://static.sweetcare.pt/img/prd/488/v-638200520026609584/caudalie-007478cd-1.webp"
+  },
+  {
+    "Id":3,
+    "Label": "Moisturizer",
+    "Brand": "JACK BLACK",
+    "name": "Clean Break™ Oil-Free Moisturizer",
+    "MRP": "30",
+    "Rank": "4.5",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://i5.walmartimages.com/asr/7462f473-2eea-4069-ade4-7f9a58d18f29_1.52e90b3f7bce399e3a2b82f159450d70.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+    "imgurl2":"https://www.planetbeauty.com/cdn/shop/files/jack_black_double_duty_face_moisturizer_spf_20_f2858f76-9998-48d0-ae16-0b91a693a4a5_x2000.jpg?v=1711131617"
+  },
+  {
+    "Id":4,
+    "Label": "Moisturizer",
+    "Brand": "LANCÔME",
+    "name": "Hydra Zen Anti-Stress Gel Moisturizer",
+    "MRP": "48",
+    "Rank": "4.6",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://th.bing.com/th/id/OIP.Cort4imWVAZcsKapCsC6zAHaJQ?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://www.lancome.com/on/demandware.static/-/Sites-lancome-ng-master-catalog/default/dwde7cacb6/images/PACKSHOTS/SKINCARE/The-Creams/00206-LAC-Hydra-Zen-Anti-Stress-Cream-Gel/Lancome-The-Creams-Hydra-Zen-Anti-Stress-Cream-Gel-50_ml-000-3605531688627.png"
+   },
+  {
+    "Id":5,
+    "Label": "Moisturizer",
+    "Brand": "CLINIQUE",
+    "name": "Even Better Skin Tone Correcting Moisturizer Broad Spectrum SPF 20",
+    "MRP": "50",
+    "Rank": "4.1",
+    "Quantity":"1",
+    "Ingredients": " Octisalate 5.00% ",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1102733/PiDhQBVYY-192333149720_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1102733/2xBiX8ppD-192333149720_2.jpg"
+  },
+  {
+    "Id":6,
+    "Label": "Moisturizer",
+    "Brand": "ESTÉE LAUDER",
+    "name": " DayWear Advanced Multi-Protection Anti-Oxidant Creme",
+    "MRP": " Normal/Combination ",
+    "Rank": "54",
+    "Quantity":"1",
+    "Ingredients": "4.1",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/estee-lauder/1022009/0/rNxZjNSd8R-j4R4-ZCbca-1022009_1.jpg",
+    "imgurl2":"https://media.alina-cosmetics.com/prod/media/71/b9/b6/1636740104/8044cea30dd4405a96d0f320042d85fe.png"
+  },
+  {
+    "Id":7,
+    "Label": "Moisturizer",
+    "Brand": "FIRST AID BEAUTY",
+    "name": "5 in 1 Face Cream SPF 30",
+    "MRP": "40",
+    "Rank": "3.9",
+    "Quantity":"1",
+    "Ingredients": "-Zinc Oxide (OTC): Filters harmful UV rays. -Alpha Arbutin: Helps skin appear brighter with a more even skin tone. -Homeostatine: Helps visibly firm and smooth the appearance of skin. -Bisabolol: Helps soothe and calm skin.",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1127366/Sf3Ubl1rv-1127366_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1127366/Bgq6XT5lQ--1127366_2.jpg"
+
+  },
+  {
+    "Id":8,
+    "Label": "Cleanser",
+    "Brand": "KATE SOMERVILLE",
+    "name": "Gentle Daily Wash",
+    "MRP": "36",
+    "Rank": "4.2",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1049039/x9z34V4KZ_-1049039_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1049039/b9lqNcDcRe-1049039_3.jpg "
+
+  },
+  {
+    "Id":9,
+    "Label": "Cleanser",
+    "Brand": "ALGENIST",
+    "name": "GENIUS Ultimate Anti-Aging Melting Cleanser",
+    "MRP": "38",
+    "Rank": "4.1",
+    "Quantity":"1",
+    "Ingredients": " C12-15 Alkyl Benzoate",
+    "imgurl1":"https://th.bing.com/th/id/OIP._ii91BVAY0TLx8AT0JYGigHaHa?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://www.sephora.com/productimages/sku/s1649771-av-4-zoom.jpg?imwidth=315"
+
+  },
+  {
+    "Id":10,
+    "Label": "Cleanser",
+    "Brand": "NARS",
+    "name": "Gentle Oil-Free Eye Makeup Remover",
+    "MRP": "25",
+    "Rank": "4.3",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1085229/qgcCWtkAfX-1085229_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1085229/uVQANpsoNj-1085229_2.jpg"
+
+  },
+  {
+    "Id":11,
+    "Label": "Cleanser",
+    "Brand": "SEPHORA COLLECTION",
+    "name": "Black Magic Set of 2 Makeup Remover Cloths",
+    "MRP": "12",
+    "Rank": "4.6",
+    "Quantity":"1",
+    "imgurl1":"https://static.sweetcare.pt/img/prd/max/v-637213374913870412/clinique-012686cq_01.jpg",
+    "imgurl2":"https://static.sweetcare.pt/img/prd/488/v-638200520640809493/clinique-012686cq-1.webp"
+  },
+  {
+    "Id":12,
+    "Label": "Cleanser",
+    "Brand": "OLEHENRIKSEN",
+    "name": "So Nurturing™ Cleansing Cloths",
+    "MRP": "15",
+    "Rank": "4.0",
+    "Quantity":"1",
+    "imgurl1":"https://th.bing.com/th/id/OIP.jC9gAjc5NUtojRn5HFgcwwHaHa?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://th.bing.com/th/id/OIP.BZ-55mgMaYTov6WNiVUg6AAAAA?pid=ImgDet&w=450&h=512&rs=1"
+
+  },
+
+  {
+    "Id":13,
+    "Label": "Treatment",
+    "Brand": "DR. BRANDT SKINCARE",
+    "name": "Do Not Age with Dr. Brandt Transforming Pearl Serum",
+    "MRP": "152",
+    "Rank": "4.3",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://th.bing.com/th/id/OIP.0BIatFwxbXJDnPpMIe7YwAHaHa?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://th.bing.com/th/id/OIP.K5fJYvlWDzfs6WS4FIzgYgHaFj?rs=1&pid=ImgDetMain"
+
+  },
+  {
+    "Id":14,
+    "Label": "Treatment",
+    "Brand": "OMOROVICZA",
+    "name": "Silver Skin Savior Salicylic/Glycolic Acid Treatment",
+    "MRP": "125",
+    "Rank": "5.0",
+    "Quantity":"1",
+    "Ingredients": " Glycerin",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1095667/BBkoWSG9M-1095667_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1095667/8Ta6nKROlW-1095667_2.jpg"
+
+  },
+  {
+    "Id":15,
+    "Label": "Treatment",
+    "Brand": "CLINIQUE",
+    "name": "Acne Solutions Clearing Concealer",
+    "MRP": "18",
+    "Rank": "3.6",
+    "Quantity":"1",
+    "Ingredients": " Water ",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1084835/TAQU2bwDor-20714968939_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/clinique/1084835/1/z4tKAsflQM-AC_clinique.jpeg"
+
+  },
+  {
+    "Id":16,
+    "Label": "Treatment",
+    "Brand": "PERRICONE MD",
+    "name": "High Potency Classics: Face Firming Serum",
+    "MRP": "99",
+    "Rank": "4.1",
+    "Quantity":"1",
+    "Ingredients": "Visit the Perricone MD boutique",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1084711/6SGBdDwiM-27131935353_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/estee-lauder/1084711/1/b3Uv5BbGB3-AC_estee_lauder_New.jpeg"
+
+  },
+  {
+    "Id":17,
+    "Label": "Treatment",
+    "Brand": "ALGENIST",
+    "name": "ELEVATE Advanced Lift Contouring Cream",
+    "MRP": "96",
+    "Rank": "4.3",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1127234/eIdUtGlTtfc-1127234_5.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1127234/dctQvsIp0ly-1127234_3.jpg"
+
+  },
+  {
+    "Id":18,
+    "Label": "Face Mask",
+    "Brand": "PERRICONE MD",
+    "name": "PRE:EMPT SERIES™ Refreshing Shower Mask",
+    "MRP": "50",
+    "Rank": "4.4",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://th.bing.com/th/id/OIP.s7JmCCevBkAfDtI_N8eTrAHaOq?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://th.bing.com/th/id/OIP.FZvoM66O0bsty71K4NxbRAHaE6?rs=1&pid=ImgDetMain"
+
+  },
+  {
+    "Id":19,
+    "Label": "Face Mask",
+    "Brand": "ORIGINS",
+    "name": "By All Greens™ Foaming Deep Cleansing Mask",
+    "MRP": "30",
+    "Rank": "3.9",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://th.bing.com/th/id/OIP.BRnkVjKksZmi1xZXUA-A9wHaHa?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://i.pinimg.com/originals/ea/c2/22/eac222f527978eab91ddd2ec3620e55c.jpg"
+
+  },
+  {
+    "Id":20,
+    "Label": "Face Mask",
+    "Brand": "ORIGINS",
+    "name": "Flower Fusion™ Orange Radiance-Boosting Sheet Mask",
+    "MRP": "7",
+    "Rank": "3.8",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://th.bing.com/th/id/OIP.LxecclOJRso2swXjD_LBswHaHa?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://www.origins.com.tw/media/export/cms/products/1000x1000/origins_sku_0P1W01_1000x1000_1.jpg"
+
+  },
+  {
+    "Id":21,
+    "Label": "Face Mask",
+    "Brand": "SKIN LAUNDRY",
+    "name": "Wrinkle Release Neck & Chest Sheet Mask",
+    "MRP": "60",
+    "Rank": "2.7",
+    "Quantity":"1",
+    "Ingredients": " Water",
+    "imgurl1":"https://s3-us-west-1.amazonaws.com/1source-upstream/product_photo/428760_front_1591676796",
+    "imgurl2":"https://i.pinimg.com/originals/2d/56/0f/2d560f4e0100b498746c4593d9f12ec7.jpg"
+
+  },
+  {
+    "Id":22,
+    "Label": "Face Mask",
+    "Brand": "CLINIQUE",
+    "name": "Sculptwear Contouring Massage Cream Mask",
+    "MRP": "46",
+    "Rank": "4.5",
+    "Quantity":"1",
+
+    "Ingredients": " Water ",
+    "imgurl1":"https://th.bing.com/th/id/OIP.0Ldur5IdNpTfvtgAPQJDGgHaHa?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://www.dilaykozmetik.com/ProductImages/95541/original/s-l10004.jpg"
+
+  },
+  {
+    "Id":23,
+    "Label": "Eye cream",
+    "Brand": "KENZOKI",
+    "name": "Lotus Caress to Moisturize Eyes",
+    "MRP": "35",
+    "Rank": "3.5",
+    "Quantity":"1",
+
+    "Ingredients": " Water",
+    "imgurl1":"https://i.pinimg.com/originals/2c/dc/bd/2cdcbd060a2e02f2d371276adeaccc63.jpg",
+    "imgurl2":"https://cdn2.easycosmetic.be/images/Produkte/D2/kenzo-kenzoki-weisser-lotus-lotus-caress-to-moisturize-eyes-15ml.png"
+
+  },
+  {
+    "Id":24,
+    "Label": "Eye cream",
+    "Brand": "SEPHORA COLLECTION",
+    "name": "Eye Mask - Grape - Smoothing",
+    "MRP": "5",
+    "Rank": "0.0",
+    "Quantity":"1",
+
+    "Ingredients": " Water",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1049456/bWIVAnnMV-1049456_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1049456/hd47I4pmBI-1049456_2.jpg"
+
+  },
+  {
+    "Id":25,
+    "Label": "Eye cream",
+    "Brand": "APIVITA",
+    "name": "Express Beauty Mask With Ginkgo Biloba",
+    "MRP": "30",
+    "Rank": "4.0",
+    "Quantity":"1",
+
+    "Ingredients": " ** Camelia Sinensis",
+    "imgurl1":"https://th.bing.com/th/id/OIP.Ne3H67lEPJN__TrkkPwUPgHaHU?rs=1&pid=ImgDetMain",
+    "imgurl2":"https://th.bing.com/th/id/OIP._R2C0rFo9C1Q-j050zhG7wAAAA?rs=1&pid=ImgDetMain"
+
+  },
+  {
+    "Id":26,
+    "Label": "Eye cream",
+    "Brand": "OMOROVICZA",
+    "name": "Reviving Eye Cream",
+    "MRP": "145",
+    "Rank": "3.8",
+    "Quantity":"1",
+
+    "Ingredients": " Hungarian Thermal Water",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1122807/Brkj3fa5hH-1122807_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1122807/79cyfGvi5-1122807_2.jpg"
+
+  },
+  {
+    "Id":27,
+    "Label": "Eye cream",
+    "Brand": "REN CLEAN SKINCARE",
+    "name": "Vita Mineral™ Active 7 Eye Gel",
+    "MRP": "30",
+    "Rank": "3.7",
+    "Quantity":"1",
+
+    "Ingredients": " Rosa Damascena Flower Water",
+    "imgurl1":"https://luxplus.imgix.net/content/product/image/42206-32737-1669798068.jpg?auto=format,compress&w=800&h=800&fill-color=FFFFFF&fill=solid&fit=fillmax",
+    "imgurl2":"https://th.bing.com/th/id/R.76a5efa702b8fb4de7b5d30d3bc14ab7?rik=uq8W6TREeY%2fA0A&riu=http%3a%2f%2f4.bp.blogspot.com%2f-SyXtdeRopA0%2fVGq6pEaC_GI%2fAAAAAAAAApc%2fAs0RK4mBC9E%2fs1600%2fIMG_7281%5b1%5d.JPG&ehk=iGgw%2fuX0HofDjj5pqQA32BotNsjw8RsPAa5UFv%2fYhyo%3d&risl=&pid=ImgRaw&r=0"
+
+  },
+  {
+    "Id":28,
+    "Label": "Sun protect",
+    "Brand": "VITA LIBERATA",
+    "name": "Passionflower & Argan Dry Oil Broad Spectrum SPF 50",
+    "MRP": "45",
+    "Rank": "4.2",
+    "Quantity":"1",
+
+    "Ingredients": " Prunus Amygdalus Dulcis (Sweet Almond) Oil*",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1090020/VEOCF7NDV-1090020_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1090020/vjjJG0oSZU-1090020_2.jpg"
+
+  },
+  {
+    "Id":29,
+    "Label": "Sun protect",
+    "Brand": "URBAN DECAY",
+    "name": "Naked Skin Bronzing Beauty Balm Broad Spectrum SPF 20",
+    "MRP": "34",
+    "Rank": "4.1",
+    "Quantity":"1",
+
+    "Ingredients": " -Pepha® (derived from watermelon extract): Protects skin cells against daily stress. - Vitasource™ and dGlyage®: Firm the appearance of skin",
+    "imgurl1":"https://th.bing.com/th/id/R.291e86f4cfca954b423c209fcb13e7fb?rik=uxS%2bTYKH%2fDp3Yg&riu=http%3a%2f%2fn.nordstrommedia.com%2fImageGallery%2fstore%2fproduct%2fGigantic%2f6%2f_9630626.jpg%3fcrop%3dpad%26pad_color%3dFFF%26format%3djpeg%26w%3d704%26h%3d1080&ehk=rI7XEIlNkOtycGumweSknliOI8Eu3m5puGmd7Th1zJ8%3d&risl=&pid=ImgRaw&r=0",
+    "imgurl2":"https://i.pinimg.com/originals/1c/a2/e4/1ca2e44666ea73d801a9dce080242320.jpg"
+
+  },
+  {
+    "Id":30,
+    "Label": "Sun protect",
+    "Brand": "KATE SOMERVILLE",
+    "name": "Daily Deflector™ Moisturizer Broad Spectrum SPF 50+",
+    "MRP": "48",
+    "Rank": "3.9",
+    "Quantity":"1",
+
+    "Ingredients": " Water",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1124657/rUWZ9h2s1a-1124657_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1124657/bP4u3NwYLq-1124657_3.jpg"
+
+  },
+  {
+    "Id":31,
+    "Label": "Sun protect",
+    "Brand": "VITA LIBERATA",
+    "name": "Self Tan Dry Oil SPF 50",
+    "MRP": "54",
+    "Rank": "3.5",
+    "Quantity":"1",
+
+    "Ingredients": " Water",
+    "imgurl1":"https://static.sweetcare.pt/img/prd/488/v-638200523150334319/lancaster-016524la_01@2x.webp",
+    "imgurl2":"https://static.sweetcare.pt/img/prd/488/v-638555183334621750/lancaster-016524la-3@2x.webp"
+
+  },
+ 
+  {
+    "Id":32,
+    "Label": "Sun protect",
+    "Brand": "DERMAFLASH",
+    "name": "DERMAPROTECT Daily Defense Broad Spectrum SPF 50+",
+    "MRP": "45",
+    "Rank": "0.0",
+    "Quantity":"1",
+
+    "Ingredients": "Visit the DERMAFLASH boutique",
+    "imgurl1":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/958478/rj85fW2Gb-958478_1.jpg",
+    "imgurl2":"https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/958478/AEPxYdEgLM-958478_2.jpg"
+
+  }
+  ]

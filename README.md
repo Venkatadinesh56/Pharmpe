@@ -28,10 +28,8 @@ PharmPE is a comprehensive mobile application designed to revolutionize the phar
 
 ## Categorious
 
-![Categorious](https://i.postimg.cc/BnK1RYhj/Screenshot-2024-07-15-141218.png)
-![categorious](https://i.postimg.cc/02rS02Dd/Screenshot-2024-07-15-141303.png)
-![categorious](https://i.postimg.cc/fyq9Q6n9/Screenshot-2024-07-15-141313.png)
-![categorious](https://i.postimg.cc/qB1nKChv/Screenshot-2024-07-15-141324.png)
+![Categorious](https://i.postimg.cc/BnK1RYhj/Screenshot-2024-07-15-141218.png) ![categorious](https://i.postimg.cc/02rS02Dd/Screenshot-2024-07-15-141303.png)
+![categorious](https://i.postimg.cc/fyq9Q6n9/Screenshot-2024-07-15-141313.png) ![categorious](https://i.postimg.cc/qB1nKChv/Screenshot-2024-07-15-141324.png)
 ![categorious](https://i.postimg.cc/L671CKVd/Screenshot-2024-07-15-141345.png)
 
 ## cart item
@@ -47,5 +45,29 @@ PharmPE is a comprehensive mobile application designed to revolutionize the phar
 ![review order](https://i.postimg.cc/BbbjpMLQ/Screenshot-2024-07-15-141614.png)
 
 ## payment
-![payment](https://i.postimg.cc/9MJ4yvfn/Screenshot-2024-07-15-141629.png)
-![payment](https://i.postimg.cc/s2wTM7xz/Screenshot-2024-07-15-151355.png)
+![payment](https://i.postimg.cc/9MJ4yvfn/Screenshot-2024-07-15-141629.png)  ![payment](https://i.postimg.cc/s2wTM7xz/Screenshot-2024-07-15-151355.png)
+
+## 🧐 Features
+
+Here're some of the project's best features:
+
+*   Login
+*   signup
+*   Home
+*   Categorious
+*   Cart
+*   Address
+*   review order
+*   payment
+
+  
+  
+## 💻 Built with
+
+Technologies used in the project:
+
+*   dart language
+*   chat gpt
+*   Git
+*   Github
+
